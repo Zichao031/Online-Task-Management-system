@@ -29,9 +29,9 @@ Click 'Flush socket pool'
   
   [Python](https://www.python.org/) - Python3.8.8 is the primary programming language for this project.
   
-  [Html](https://html.com/) - Html is primary programming language for frontend 
+  [HTML](https://html.com/) - Html is primary programming language for frontend 
   
-  [Json](https://www.json.org) - Json in implementation of delete function
+  [JSON](https://www.json.org) - Json in implementation of delete function
   
   [SQL](https://www.mysql.com/) - SQL is primary programming language for database management
   
