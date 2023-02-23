@@ -35,7 +35,7 @@ Click 'Flush socket pool'
   
   [SQL](https://www.mysql.com/) - SQL is primary programming language for database management
   
-  [Flask](https://flask.palletsprojects.com/en/2.2.x/) - flask_login, flask_sqlalchemy
+  [Flask](https://flask.palletsprojects.com/en/2.2.x/) - Lightweight framework for python (flask_login, flask_sqlalchemy)
   
   [Werkzeug](https://werkzeug.palletsprojects.com/en/2.2.x/) - Security
   
