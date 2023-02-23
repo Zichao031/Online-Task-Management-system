@@ -3,7 +3,7 @@
 ## Setup & Installation
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/Zichao031/python_website.git)
 ```
 
 ## Run 
