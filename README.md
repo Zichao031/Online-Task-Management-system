@@ -1,6 +1,6 @@
 # python_website
 
-## Setup & Installation
+## Setup
 
 ```bash
 git clone <repo-url>
