@@ -1,4 +1,4 @@
-# python_website
+# Note App
 
 ## Setup
 
@@ -38,6 +38,18 @@ Click 'Flush socket pool'
   [Flask](https://flask.palletsprojects.com/en/2.2.x/) - flask_login, flask_sqlalchemy
   
   [Werkzeug](https://werkzeug.palletsprojects.com/en/2.2.x/) - Security
+  
+## Features
+
+  Sign in - Create new user account.
+  
+  Login - Login the account to be able to manage notes
+  
+  Log out - Logout of the current account
+  
+  Add notes - Add notes into database
+  
+  Delete notes - Delete notes from database
   
 
 
