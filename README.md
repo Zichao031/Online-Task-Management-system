@@ -1,4 +1,4 @@
-# Note App
+# Online-Task-Management-system
 
 ## Setup
 
@@ -43,13 +43,13 @@ Click 'Flush socket pool'
 
   Sign in - Create new user account.
   
-  Login - Login the account to be able to manage notes
+  Login - Login the account to be able to manage tasks
   
   Log out - Logout of the current account
   
-  Add notes - Add notes into database
+  Add notes - Add tasks into database
   
-  Delete notes - Delete notes from database
+  Delete notes - Delete tasks from database
   
 
 
