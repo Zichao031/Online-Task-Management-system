@@ -47,9 +47,9 @@ Click 'Flush socket pool'
   
   Log out - Logout of the current account
   
-  Add notes - Add tasks into database
+  Add tasks - Add tasks into database
   
-  Delete notes - Delete tasks from database
+  Delete tasks - Delete tasks from database
   
 
 
