@@ -1,4 +1,5 @@
-# Online-Task-Management-system
+# TodoBuddy
+Online-Task-Management-Website
 
 ## Setup
 
